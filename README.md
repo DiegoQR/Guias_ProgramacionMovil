@@ -2,8 +2,13 @@
 
 ## Prueba Guia 1: Cambiar el icono de la aplicacion
 
-<img src="images\pruebas-guias\Prueba_Guia_1.jpg" style="height: 800px"/>
+<img src="images\pruebas-guias\Prueba_Guia_1.jpg" style="height: 500px"/>
 
 ## Prueba Guia 2: Cambiar los colores de la apliacion
 
-<img src="images\pruebas-guias\Prueba_Guia_2.jpg" style="height: 800px"/>
+<img src="images\pruebas-guias\Prueba_Guia_2.jpg" style="height: 500px"/>
+
+## Prueba Guia 3: Cambiar los colores de fondo mediante un boton
+
+<img src="images\pruebas-guias\Prueba_Guia_3a.jpg" style="height: 500px"/>
+<img src="images\pruebas-guias\Prueba_Guia_3b.jpg" style="height: 500px"/>
