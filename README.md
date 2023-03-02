@@ -22,7 +22,7 @@
 <img src="images\pruebas-guias\Prueba_Guia_5a.png"/>
 <img src="images\pruebas-guias\Prueba_Guia_5b.jpg" style="height: 500px"/>
 
-## Prueba Guia 5: Incluir una snackbar
+## Prueba Guia 6: Incluir una snackbar
 
 <img src="images\pruebas-guias\Prueba_Guia_6a.png"/>
 <img src="images\pruebas-guias\Prueba_Guia_6b.jpg" style="height: 500px"/>
