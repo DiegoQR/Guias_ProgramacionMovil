@@ -12,3 +12,8 @@
 
 <img src="images\pruebas-guias\Prueba_Guia_3a.jpg" style="height: 500px"/>
 <img src="images\pruebas-guias\Prueba_Guia_3b.jpg" style="height: 500px"/>
+
+
+## Prueba Guia 4: Incluir una toolbar
+
+<img src="images\pruebas-guias\Prueba_Guia_4.jpg" style="height: 500px"/>
