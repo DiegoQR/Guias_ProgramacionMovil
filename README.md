@@ -17,3 +17,9 @@
 ## Prueba Guia 4: Incluir una toolbar
 
 <img src="images\pruebas-guias\Prueba_Guia_4.jpg" style="height: 500px"/>
+
+
+## Prueba Guia 5: Incluir una menu
+
+<img src="images\pruebas-guias\Prueba_Guia_5a.png"/>
+<img src="images\pruebas-guias\Prueba_Guia_5b.jpg" style="height: 500px"/>
